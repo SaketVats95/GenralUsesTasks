@@ -1,3 +1,4 @@
+from importlib.resources import read_text
 from setuptools import setup, find_packages
 
 setup(
