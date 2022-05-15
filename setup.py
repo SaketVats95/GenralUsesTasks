@@ -7,3 +7,6 @@ setup(
     packages=find_packages()
 )
 
+# Commands Related to setup 
+
+#python setup.py --help-commands
