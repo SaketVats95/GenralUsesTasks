@@ -130,3 +130,5 @@ dmypy.json
 
 # Local Only
 /notToBeShared
+*.csv
+/data
